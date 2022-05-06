@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.2">
+  <name>HackMii Installer v1.2</name>
+  <coder>Team Twiizers</coder>
+  <version>1.2</version>
+  <release_date>201308050000</release_date>
+  <short_description>The HackMii Installer ver 1.2</short_description>
+  <long_description>With the HackMii Installer you can install The Homebrew Channel and BootMii.
+© 2007-2012 Team Twiizers
+  </long_description>
+</app>
